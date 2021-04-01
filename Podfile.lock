@@ -1,0 +1,25 @@
+PODS:
+  - ApiGatewayHMAC (1.8.0)
+  - NMapsMap (1.4.2)
+  - SwiftLint (0.42.0)
+
+DEPENDENCIES:
+  - ApiGatewayHMAC
+  - NMapsMap
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftLint
+  https://oss.navercorp.com/CocoaPods/Specs.git:
+    - ApiGatewayHMAC
+    - NMapsMap
+
+SPEC CHECKSUMS:
+  ApiGatewayHMAC: 48c0b58f2c00205bd2371e2c72e32f017ee16627
+  NMapsMap: 9c6f3528ea8be2c0a199183066f130a24842fc27
+  SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
+
+PODFILE CHECKSUM: 6b336521ab17d5db30744109e2ced0a2e86fd19f
+
+COCOAPODS: 1.10.0
