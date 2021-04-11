@@ -54,8 +54,16 @@
 
 ### 스크린 샷
 
-<div>
-<img width="240" src = ./img/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%84%87%E1%85%B31.png>
-<img width="225" src = ./img/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%84%87%E1%85%B32.png>
-<img width="230" src = ./img/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%84%87%E1%85%B33.png>
-</div>
+portrait mode
+<p>
+<img align="left" width="240" src = "https://user-images.githubusercontent.com/46915174/114312991-a9d4dd00-9b2f-11eb-867d-96ee8313ab64.jpeg">
+<img align="left" width="240" src = "https://user-images.githubusercontent.com/46915174/114312981-a5a8bf80-9b2f-11eb-881d-63c1c7401390.jpeg">
+<img align="left" width="240" src = "https://user-images.githubusercontent.com/46915174/114312993-ab9ea080-9b2f-11eb-8149-7cfadb72bcfa.jpeg">
+</p>
+
+
+landscape mode
+<p>
+<img height="240" src = "https://user-images.githubusercontent.com/46915174/114312985-a7728300-9b2f-11eb-873c-95df76bbcb75.jpeg">
+</p>
+
