@@ -22,7 +22,9 @@
    - view의 생명주기를 활용해, viewDidAppear가 호출되면 타이머가 시작되고, viewDidDisappear가 호출되면 타이머가 멈추도록 구현함
    - 앱의 background/foreground 상태를 고려해서 background 상태로 넘어가면 타이머를 멈추고, 다시 foreground 상태가 되면 타이머가 작동하도록 구현함
 
-
+### 화면 회전
+   - UITraitCollection에 포함된 size class를 활용
+   - 회전을 했을 때, height가 compact인 기종에 대해서는 미니뷰를 띄워주도록 함
 
 ### 이미지 리사이징 
 - 테이블뷰에서 여러장의 이미지를 뿌려주는 과정에서 과도한 메모리가 사용됨
@@ -49,10 +51,6 @@
         return outputImage
     }
 ```
-
-
-
-
 
 ### 스크린 샷
 
