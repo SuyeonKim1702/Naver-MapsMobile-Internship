@@ -55,13 +55,57 @@
 ### 스크린 샷
 
 portrait mode
+
 <p>
+
 <img align="left" width="240" src = "https://user-images.githubusercontent.com/46915174/114312991-a9d4dd00-9b2f-11eb-867d-96ee8313ab64.jpeg">
 <img align="left" width="240" src = "https://user-images.githubusercontent.com/46915174/114312981-a5a8bf80-9b2f-11eb-881d-63c1c7401390.jpeg">
 <img align="left" width="240" src = "https://user-images.githubusercontent.com/46915174/114312993-ab9ea080-9b2f-11eb-8149-7cfadb72bcfa.jpeg">
+
 </p>
 
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
 
+\
+&nbsp;
 landscape mode
 <p>
 <img height="240" src = "https://user-images.githubusercontent.com/46915174/114312985-a7728300-9b2f-11eb-873c-95df76bbcb75.jpeg">
