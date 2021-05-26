@@ -29,7 +29,7 @@
 ### 이미지 리사이징 
 - 테이블뷰에서 여러장의 이미지를 뿌려주는 과정에서 과도한 메모리가 사용됨
 - 이미지 리사이징을 통해 이미지뷰의 크기만큼만 이미지 버퍼를 위한 공간을 마련
-- UIGraphicsImageRenderer 대신에 UIGraphicsImageRenderer를 사용
+- UIGraphicsBeginImageContextWithOptions 대신에 UIGraphicsImageRenderer를 사용
    - 시스템에서 자동으로 적절한 render format을 선택하도록 함 -> 색 공간에 필요한 메모리 절약
 
 ```
